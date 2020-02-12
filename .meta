@@ -1,3 +1,8 @@
 {
-  "projects": {}
+  "projects": {
+    "toybox\\frantic-architect": "git@github.com:wkwan/frantic-architect.git",
+    "lists\\blender": "git@github.com:agmmnn/awesome-blender.git",
+    "lists\\unity": "https://github.com/RyanNielson/awesome-unity.git",
+    "oss\\reakit": "git@github.com:reakit/reakit.git"
+  }
 }
