@@ -9,7 +9,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "dev": "parcel example/index.html",
-    "build": "yarn clean;microbundle build",
+    "build": "yarn clean & microbundle build",
     "build:watch": "microbundle watch",
     "docz:dev": "docz dev",
     "docz:build": "docz build",
