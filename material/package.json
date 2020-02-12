@@ -8,7 +8,9 @@
   "source": "src/index.ts",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "microbundle build"
+    "dev": "parcel example/index.html",
+    "build": "microbundle build",
+    "build:watch": "microbundle watch"
   },
   "dependencies": {
     "@emotion/core": "^10.0.27",
